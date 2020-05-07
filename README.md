@@ -4,3 +4,4 @@ The "densitycode.ipynb" file contains Python code which can be used to calculate
 
 The results can be found in the "Park density and accessibility tables" folder.
 
+QGIS project with the kernel density raster layer of Sub-Saharan national parks can be downloaded from: https://drive.google.com/file/d/1iliC6jgAf3X6h7CcfY8O0rB7QWpz2QL2/view
